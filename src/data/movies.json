@@ -1,0 +1,49 @@
+[
+  {
+    "id": "tt1375666",
+    "title": "Inception",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg"
+  },
+  {
+    "id": "tt0816692",
+    "title": "Interstellar",
+    "year": 2014,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "rating": 8.6,
+    "poster": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SL1500_.jpg"
+  },
+  {
+    "id": "tt4154796",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "rating": 8.4,
+    "poster": "https://m.media-amazon.com/images/I/71niXI3lxlL._AC_SL1024_.jpg"
+  },
+  {
+    "id": "tt0120737",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/I/51Qvs9i5a%2BL._AC_.jpg"
+  }
+]
