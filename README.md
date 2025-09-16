@@ -2,7 +2,7 @@
 
 Galeria de filmes com **busca por título**, **filtro por gênero**, **filtro por nota mínima** e **página de detalhes**. Os dados vêm de um JSON local, sem dependência de API externa.
 
-🔗 **Deploy online:** _adicione aqui o link do Vercel_
+🔗 **Deploy online:  https://vercel.com/rodrigonunes20s-projects/movies-gallery-react/4t7NEY6rQSPDuBCeboZMtwL1TsXo
 
 ---
 
